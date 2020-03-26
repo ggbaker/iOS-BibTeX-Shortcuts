@@ -5,9 +5,9 @@ These Shortcuts are all designed to work with my own workflow. I maintain a sing
 
 Some of the steps in these Shortcuts (like the regular expressions for finding entries) might prove useful for your own workflow, so please feel free to use and/or modify any part to suit your own needs.
 
-The only way to easily share iOS Shortcuts (as far as I can tell) is by iCloud link. Please feel free to use and modify these "scripts" according to your own workflow.
-
 Please forgive the somewhat messy nature of these. The "drag-and-drop" nature of the Shortcuts scripting "language" isn't really amenable to clean coding, and I don't know what the best style practices are for this system. 
+
+The only way to easily share iOS Shortcuts (as far as I can tell) is by iCloud link. 
 
 ## Import a BibTeX entry based on DOI
 
