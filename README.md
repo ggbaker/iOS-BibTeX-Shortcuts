@@ -29,6 +29,6 @@ If the entry doesn't exist, the script will return an error. Otherwise, it will 
 
 A good chunk of this probably could have been implemented more elegantly in Python using the Pythonista app, but last I tried, it wasn't obvious if a pdf could be passed to Pythonista from a Shortcut. A hybrid Shortcut with Python handling all the editing of the bib file and Shortcuts handling the saving the pdf might have been better... 
 
-Shortcuts also very easily handles interfacing with files in Dropbox, whereas a Python script would necessitate the extra step of getting a Dropbox API token for the app. I suppose it might be possible to have shortcuts pull the file from Dropbox, pass it to Pythonista, then have Pythonista pass the modified text back to Shortcuts for saving.
+Shortcuts also very easily handles interfacing with files in Dropbox, whereas a Python script would necessitate the extra step of getting a Dropbox API token for the app. I suppose it might be possible to have shortcuts pull the file from Dropbox, pass it to Pythonista, then have Pythonista pass the modified text back to Shortcuts for saving, but at that point it's not clear that there's any benefit over just a pure Shortcuts-based approach.
 
 
