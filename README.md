@@ -11,7 +11,7 @@ The only way to easily share iOS Shortcuts (as far as I can tell) is by iCloud l
 
 ## Import a BibTeX entry based on DOI
 
-https://www.icloud.com/shortcuts/ee4db17042884dc6acc03f6f7afb165e
+https://www.icloud.com/shortcuts/0cbbaee39c9640f8a03f3dd94f8bb14a
 
 This script asks for a DOI as input, then requests a BibTeX entry from dx.doi.org. It then asks for a new BibTeX key, keywords (which I use for grouping entries in JabRef), and modifies the entry appropriately. It then adds a timestamp field at the end of the entry. 
 
@@ -19,7 +19,7 @@ Finally, it puts the entry at the top of .bib file (dropbox file path of the bib
 
 ## Add a PDF file to an existing entry
 
-https://www.icloud.com/shortcuts/591cc01e024f4b3db413a89e1af07ca0
+https://www.icloud.com/shortcuts/c22995def9144b969d39984d0e0248e0
 
 This script should be set to be runnable from the "share" menu when viewing a pdf. The script will ask for BiBTeX key, and search for that entry in the .bib file (file path set at the beginning of the script). 
 
