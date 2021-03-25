@@ -7,7 +7,7 @@ Some of the steps in these Shortcuts (like the regular expressions for finding e
 
 Please forgive the somewhat messy nature of these. The "drag-and-drop" nature of the Shortcuts scripting "language" isn't really amenable to clean coding, and I don't know what the best style practices are for this system. 
 
-The only way to easily share iOS Shortcuts (as far as I can tell) is by iCloud link. 
+You can import these into your shortcut app by downloading and importing the two `.shortcut` files, or by opening one of the two iCloud links below on the appropriate device. Unfortunately, the iCloud links are not permanent, so I can't guarantee they'll work, but I'll update them if I notice that they've died. 
 
 ## Import a BibTeX entry based on DOI
 
